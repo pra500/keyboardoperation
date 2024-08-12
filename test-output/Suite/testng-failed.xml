@@ -3,13 +3,13 @@
 <suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Test(failed)">
     <classes>
-      <class name="testngxml.Keyboardaction1Test">
+      <class name="testngxml.KeyboardactionTest">
         <methods>
-          <include name="beforeClass"/>
-          <include name="afterClass"/>
           <include name="fTest"/>
+          <include name="afterClass"/>
+          <include name="beforeClass"/>
         </methods>
-      </class> <!-- testngxml.Keyboardaction1Test -->
+      </class> <!-- testngxml.KeyboardactionTest -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
