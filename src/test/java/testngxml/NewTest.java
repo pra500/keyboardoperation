@@ -7,7 +7,7 @@ public class NewTest {
   @Test
   public void fTest() {
 	  
-	  Assert.assertEquals("hello", "hello"); 
+	  Assert.assertEquals("hello", "hello44444"); 
 	  }
   //**********************
 
