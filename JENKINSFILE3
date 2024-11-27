@@ -9,7 +9,7 @@ pipeline {
         }
 stage('Welcome') {
             steps {
-                echoo 'Welcome World'
+                echo 'Welcome World'
             }
         }
 stage('Bye') {
@@ -19,7 +19,7 @@ stage('Bye') {
         }  
 stage('Good') {
             steps {
-                echo 'Good'
+                echo 'Good World'
             }
         }
     }
