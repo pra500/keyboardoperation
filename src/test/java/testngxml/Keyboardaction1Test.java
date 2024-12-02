@@ -13,7 +13,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Assert;
 import org.testng.annotations.AfterClass;
 
-public class Keyboardaction1Test {
+public class Keyboardaction1Test {	
 	
 	
 	
