@@ -1,0 +1,16 @@
+stages {
+        stage('Hellofffff') {
+            steps {
+                echo 'Hello Worlddf777777'
+            }
+        }
+stage('Welcomeeeeee') {
+            steps {
+                echo 'Welcome World88888'
+            }
+        }
+stage('Byesssss') {
+            steps {
+                echo 'Bye World9999999'
+            }
+        }  
